@@ -1,6 +1,7 @@
 # Hello, Bali vagyok!
 
 Backend és app fejlesztőnek tanulok.
+
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Suzuki Valenti-grey?style=for-the-badge&logo=suzuki" alt="suzuki"/></a>
 
 # Programozási nyelvek
