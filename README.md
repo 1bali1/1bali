@@ -10,4 +10,7 @@ Backend és app fejlesztőnek tanulok.
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/C Sharp-grey?style=for-the-badge&logo=csharp" alt="c#"/></a>
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5" alt="html"/></a>
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3" alt="css"/></a>
-https://wakatime.com/badge/github/1bali1/1bali1.svg
+
+# Statisztikák
+<a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/github/1bali1/1bali1.svg" alt="statBadge"/></a>
+
