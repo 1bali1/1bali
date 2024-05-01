@@ -14,5 +14,4 @@ Backend és app fejlesztőnek tanulok.
 # Statisztikák
 <a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/github/1bali1/1bali1.svg" alt="statBadge"/></a>
 
-<embed src="https://wakatime.com/share/@072df440-838d-4c16-bc34-137a5d0c01a1/53f1b7be-0607-4f06-8467-af9aa9cc0597.svg"></embed>
-<figure><embed src="https://wakatime.com/share/@072df440-838d-4c16-bc34-137a5d0c01a1/53f1b7be-0607-4f06-8467-af9aa9cc0597.svg"></embed></figure>
+<a src="https://wakatime.com/share/@072df440-838d-4c16-bc34-137a5d0c01a1/53f1b7be-0607-4f06-8467-af9aa9cc0597.svg"></a>
