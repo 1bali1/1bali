@@ -1,10 +1,11 @@
 # Hello, Bali vagyok!
 
-Back-end, app developernek tanulok.
-...
-...
-.
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" height="30" width="40"/> </a>
+Backend és app fejlesztőnek tanulok.
 
-
-tesztelgetek
+# Nyelvek
+[![Python](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg)](#)
+[![Java](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg)](#)
+[![HTML & CSS](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/html.svg)](#)
+[![C#](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg)](#)
+[![JavaScript](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg)](#)
+[![Dart](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/dart.svg)](#)
