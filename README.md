@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @1bali
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Java, HTML & CSS, C#, Javascript
-- 📫 How to reach me Discord: 1bali1
+# Hello, Bali vagyok!
+
+Back-end, app developernek tanulok.
+...
+...
+.
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg
+
+tesztelgetek
