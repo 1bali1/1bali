@@ -21,4 +21,4 @@ Backend és app fejlesztőnek tanulok.
 <a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a>
 
 <a href="#" target="_blank"><img align="center" src="https://wakatime.com/share/@072df440-838d-4c16-bc34-137a5d0c01a1/6b848f92-b759-483c-80e3-796e103de9f1.png" alt="statsChar"  height="300" width="500"/></a>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1bali1)](https://github.com/anuraghazra/github-readme-stats)
+
